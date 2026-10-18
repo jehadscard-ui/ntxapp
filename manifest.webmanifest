@@ -1,6 +1,6 @@
 {
-  "name": "NTxGuide Card Maker",
-  "short_name": "Card Maker",
+  "name": "NTxGuide Studio",
+  "short_name": "NTx Studio",
   "description": "Make the NTxGuide card update post image.",
   "start_url": "./",
   "scope": "./",
